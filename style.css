@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #FDF5E6;
+  }
+  
+  #hobby {
+    background-color: #FDF5E6;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
